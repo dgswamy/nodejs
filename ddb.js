@@ -4,7 +4,7 @@ AWS.config.update({
     accessKeyId: 'dummy',
     secretAccessKey: 'dummy',
     region: 'us-east-1',
-    endpoint:"http://192.168.1.57:8000", 
+    endpoint:"http://localhost:8000", 
 
   });
 
